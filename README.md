@@ -1,6 +1,6 @@
 # 令和2年簡易100mメッシュ人口データ（FlatGeobuf形式及びPMTiles形式）
 
-#　デモサイト
+# デモサイト
 https://shi-works.github.io/noto-hanto-earthquake-2024-100m-mesh-pop-map-on-maplibre-gl-js/#10.76/36.5546/136.8787/0/70
 
 ![image](https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data/assets/71203808/d55e95f3-a6ef-4d55-abcf-71dcb3d75555)
