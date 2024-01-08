@@ -1,4 +1,5 @@
 # 令和2年簡易100mメッシュ人口データ（FlatGeobuf形式及びPMTiles形式）
+[地域・交通データ研究所にて公開されている令和2年簡易100mメッシュ人口データ](https://gtfs-gis.jp/teikyo/index.html)をFlatGeobuf形式及びPMTiles形式に変換したデータです。
 
 # デモサイト
 https://shi-works.github.io/noto-hanto-earthquake-2024-100m-mesh-pop-map-on-maplibre-gl-js/#10.76/36.5546/136.8787/0/70
