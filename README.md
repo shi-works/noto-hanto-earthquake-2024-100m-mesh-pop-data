@@ -4,7 +4,7 @@
 # デモサイト
 https://shi-works.github.io/noto-hanto-earthquake-2024-100m-mesh-pop-map-on-maplibre-gl-js/#10.76/36.5546/136.8787/0/70
 
-![image](https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data/assets/71203808/d55e95f3-a6ef-4d55-abcf-71dcb3d75555)
+![demo2](https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data/assets/71203808/925896ec-ca21-47b0-877f-138ce8d883f4)
 
 # 石川県
 ## FlatGeobuf
