@@ -20,7 +20,7 @@ https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toya
 ## FlatGeobuf
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.fgb (1.6GB)
 ## PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.pmtiles (1.1GB ズームレベル4-12)
+https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.pmtiles (1.1GB ズームレベル4-12)  
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_v2.pmtiles (970MB ズームレベル8-12)
 # Data Source
 https://gtfs-gis.jp/teikyo/kani_100m_download2020.html#16 (ライセンスはCC-BY)
