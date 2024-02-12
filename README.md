@@ -7,23 +7,15 @@ https://shi-works.github.io/noto-hanto-earthquake-2024-100m-mesh-pop-map-on-mapl
 ![demo2](https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data/assets/71203808/925896ec-ca21-47b0-877f-138ce8d883f4)
 
 - 石川県
-  - [FlatGeobuf (17MB)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.fgb)
-  - [PMTiles(13MB ズームレベル4-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.pmtiles )
-# 富山県
-## FlatGeobuf
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.fgb (22MB)
-## PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.pmtiles (17MB ズームレベル4-12)
-# 静岡県
-## FlatGeobuf
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.fgb (92MB)
-## PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.pmtiles (40MB ズームレベル4-12)
-# 全国
-## FlatGeobuf
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.fgb (1.6GB)
-## PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.pmtiles (1.1GB ズームレベル4-12)  
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_v2.pmtiles (800MB ズームレベル9-12)
-# Data Source
-https://gtfs-gis.jp/teikyo/kani_100m_download2020.html#16 (ライセンスはCC-BY)
+  - [FlatGeobuf(17MB)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.fgb)
+  - [PMTiles(13MB ズームレベル4-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.pmtiles)
+- 富山県
+  - [FlatGeobuf(22MB)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.fgb)
+  - [PMTiles(17MB ズームレベル4-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.pmtiles)
+- 静岡県
+  - [FlatGeobuf(92MB)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.fgb)
+  - [PMTiles(40MB ズームレベル4-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.pmtiles)
+- 全国
+  - [FlatGeobuf(1.6GB)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.fgb)
+  - [PMTiles(1.1GB ズームレベル4-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.pmtiles)
+  - [PMTiles(800MB ズームレベル9-12)](https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_v2.pmtiles)
