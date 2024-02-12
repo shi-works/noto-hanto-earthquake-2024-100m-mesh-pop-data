@@ -6,11 +6,11 @@ https://shi-works.github.io/noto-hanto-earthquake-2024-100m-mesh-pop-map-on-mapl
 
 ![demo2](https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data/assets/71203808/925896ec-ca21-47b0-877f-138ce8d883f4)
 
-# 石川県
-## FlatGeobuf
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.fgb (17MB)
-## PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.pmtiles (13MB ズームレベル4-12)
+- 石川県
+  - FlatGeobuf
+  https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.fgb (17MB)
+  - PMTiles
+  https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishikawa.pmtiles (13MB ズームレベル4-12)
 # 富山県
 ## FlatGeobuf
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.fgb (22MB)
