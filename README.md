@@ -16,6 +16,11 @@ https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_ishi
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.fgb (22MB)
 ## PMTiles
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_toyama.pmtiles (17MB ズームレベル4-12)
+# 静岡県
+## FlatGeobuf
+https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.fgb (92MB)
+## PMTiles
+https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020_shizuoka.pmtiles (40MB ズームレベル4-12)
 # 全国
 ## FlatGeobuf
 https://xs489works.xsrv.jp/pmtiles-data/100m_mesh_pop2020/100m_mesh_pop2020.fgb (1.6GB)
